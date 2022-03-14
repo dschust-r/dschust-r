@@ -1,4 +1,4 @@
-### Hi there 🍄
+### 🍄 Hi there 🍄
 
 * I am currently doing my PhD in Switzerland ⛰️🥾🧀🐄
 * I am a biochemist who uses mass spectrometry to figure out proteins 🔬🧪
