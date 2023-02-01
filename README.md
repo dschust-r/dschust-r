@@ -14,5 +14,3 @@ status](https://www.r-pkg.org/badges/version/protti)](https://CRAN.R-project.org
 You can also find me on [Twitter](https://twitter.com/dina_sch) and [LinkedIn](https://ch.linkedin.com/in/dina-schuster-35048b150) 🐦
 
 Find out more about me here ➡️ [**on my personal website**](https://dschust-r.github.io/) 
-
-[![Dina's GitHub stats](https://github-readme-stats.vercel.app/api?username=dschust-r&show_icons=true&theme=chartreuse-dark)](https://github.com/dschust-r/github-readme-stats)
