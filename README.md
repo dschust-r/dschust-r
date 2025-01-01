@@ -1,6 +1,5 @@
 ### 🍄 Hi there 🍄
 
-* I am working as a postdoctoral researcher at Utrecht University 🇳🇱
 * I am a biochemist who uses mass spectrometry to figure out proteins 🔬🧪
 * I am interested in structural proteomics and all things related to mass spectrometry 🧬
 
