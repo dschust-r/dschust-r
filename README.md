@@ -12,5 +12,3 @@ status](https://www.r-pkg.org/badges/version/protti)](https://CRAN.R-project.org
 [![DOI:10.1093/bioadv/vbab041](http://img.shields.io/badge/DOI-10.1093/bioadv/vbab041-5680C1.svg)](https://doi.org/10.1093/bioadv/vbab041)
 
 You can also find me on [Twitter](https://twitter.com/dina_sch) and [LinkedIn](https://ch.linkedin.com/in/dina-schuster-35048b150) 🐦
-
-Find out more about me here ➡️ [**on my personal website**](https://dschust-r.github.io/) 
