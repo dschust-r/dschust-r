@@ -10,4 +10,4 @@ status](https://www.r-pkg.org/badges/version/protti)](https://CRAN.R-project.org
 [![Metacran downloads](https://cranlogs.r-pkg.org/badges/grand-total/protti)](https://cran.r-project.org/package=protti)
 [![DOI:10.1093/bioadv/vbab041](http://img.shields.io/badge/DOI-10.1093/bioadv/vbab041-5680C1.svg)](https://doi.org/10.1093/bioadv/vbab041)
 
-You can also find me on [Bluesky](https://bsky.app/profile/dina-sch.bsky.social),[Twitter](https://twitter.com/dina_sch), and [LinkedIn](https://ch.linkedin.com/in/dina-schuster-35048b150) 🐦
+You can also find me on [Bluesky](https://bsky.app/profile/dina-sch.bsky.social), [Twitter](https://twitter.com/dina_sch), and [LinkedIn](https://ch.linkedin.com/in/dina-schuster-35048b150) 🐦
